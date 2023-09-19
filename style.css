@@ -1,0 +1,32 @@
+.bodybackground {
+
+background-image: url("images.jpg");
+
+background-position:center;
+
+
+background-size: cover;
+
+}
+h1
+{
+
+    color: red ;
+    font-family: cursive;
+    font-size: 40px;
+
+}
+#myCanvas
+{
+    border-width: 10px; 
+    background-color: aliceblue;
+    border-style: ridge;
+
+}
+
+
+
+span
+{
+    font-size: 20px;
+}   
